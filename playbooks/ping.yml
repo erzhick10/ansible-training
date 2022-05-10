@@ -1,6 +1,6 @@
 ---
 - name: Debug Example
-  hosts: all
+  hosts: 192.168.3.167     #all
   gather_facts: false
 
   tasks:
